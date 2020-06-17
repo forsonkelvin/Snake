@@ -1,4 +1,6 @@
-<img src="https://imgur.com/Uloi3WH.gif" width=200><br>
+## Created by Kelvin Forson and Nelson Kagimbi
+
+<img src="https://imgur.com/Uloi3WH.gif" width=600><br>
 
 
 # Snake
@@ -19,4 +21,4 @@ The opposite is for the right arrow key.<br>
 
 # Contact
 
-Email [Kelvin Forson](<mailto:KelvinForson2023@u.northwestern.edu>) for any contributions or just to discuss the snake game.
+Email [Kelvin Forson](<mailto:KelvinForson2023@u.northwestern.edu>)  or [Nelson Kagimbi](<mailto:NelsonKagimbi@u.northwestern.edu>)for any contributions or just to discuss the snake game.
